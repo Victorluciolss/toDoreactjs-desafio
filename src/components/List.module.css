@@ -1,0 +1,38 @@
+.list {
+  margin-left: 720px;
+  margin-top: -16px;
+  
+
+  
+}
+
+.list input {
+  background: var(--gray-500);
+  width: 40rem;
+  border-radius: 8px;
+  padding: 1rem;
+  border: 1px solid;
+}
+.list header {
+  display: flex;
+  font-size:14px;
+ 
+  
+}
+.list header div {
+  background: var(--gray-400);
+  padding: 0.5rem;
+  border-radius: 1.5rem;
+  margin: 0 0 0 0.25rem;
+}
+.created {
+  color: var(--blue);
+  margin-top: 8px;
+  
+  
+}
+.completed {
+  color: var(--purple);
+  margin: 0 0 0 22rem;
+  margin-top: 8px;
+}

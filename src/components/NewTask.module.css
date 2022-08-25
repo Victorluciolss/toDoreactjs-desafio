@@ -1,0 +1,42 @@
+.task {
+ margin-left:45rem;
+ margin-top: -16px;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ gap: 8px;
+ 
+ 
+ 
+ 
+}
+.task input{
+    background: var(--gray-500);
+    width: 32rem;
+    border-radius: 8px;
+    padding: 1rem;
+    border: 1px solid;
+    
+   
+    
+}
+.task button {
+    width: 5.3rem;
+    border-radius: 8px;
+    border: 0;
+    padding: 1rem;
+    background: var(--blue-dark);
+    color: var(--gray-100);  
+    font-size: 16px;  
+
+}
+.task img {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 0.5rem;
+   
+
+    
+    
+
+}
